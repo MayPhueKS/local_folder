@@ -1,0 +1,2 @@
+Creating a repository locally in Git means initializing a new Git repository on your computer. 
+This process sets up a version-controlled directory where you can track changes, commit updates, and (optionally) link it to a remote repository for collaboration.
