@@ -1,0 +1,2 @@
+A .gitignore file is a special file in a Git repository that specifies which files and directories Git should ignore. 
+When a file or directory is listed in .gitignore, Git will not track changes to it or include it in commits, even if it's present in the working directory.
